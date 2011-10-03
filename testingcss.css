@@ -1,0 +1,17 @@
+  body{
+  font-family: bookman old style;
+  font-size: 13px;
+  }
+  code {
+    color: blue;
+    background-color: #cccccc;
+	display: block;
+	font-family: courier new;
+	}
+	.smallbox{
+	height: 400px;
+	width: 50%;
+	overflow:scroll;
+	margin-bottom: 30px;
+	padding-left: 5px;
+	}
